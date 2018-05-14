@@ -1,6 +1,6 @@
 
 Microservice cloud architecture
-. Knowledge of ASM and ARM. 
+. Knowledge OF ASM and ARM. 
 
 
 
